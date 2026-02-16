@@ -1,4 +1,4 @@
-### i'm a high school student who does systems programming and other computer stuff
+i'm a high school student who does systems programming and other computer stuff
 
 languages i like:<br>rust<br>c<br>
 
