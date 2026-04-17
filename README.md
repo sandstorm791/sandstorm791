@@ -1,8 +1,6 @@
 i'm a high school student who does systems programming and other computer stuff
 
-languages i like:<br>rust<br>c<br>
-
-languages i dont like but use anyway:<br>java<br>python<br>bash<br>c++<br>
+languages i like:<br>rust<br>c<br>bash sometimes<br>
 
 #### things i'm doing:
 
